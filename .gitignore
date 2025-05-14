@@ -1,0 +1,16 @@
+# Arduino build-artefacten
+*.hex
+*.elf
+*.eep
+*.bin
+
+# Processing cache
+cache/
+
+# Systeem-/editorbestanden
+.DS_Store
+Thumbs.db
+*.log
+
+# Tijdelijke folders
+temp/
